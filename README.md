@@ -31,3 +31,9 @@ project. Creative and design elements are not subject to board governance.
 
 ## Founders
 Information on the project's founders is coming soon.
+
+## Community
+There is currently a single Google group for all aspects of and discussions
+about the game:
+
+[Space Trader on Google Groups](https://groups.google.com/forum/#!forum/space-trader)
