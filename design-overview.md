@@ -1,109 +1,99 @@
 # Game Design
-## Theme
-Space, trading, exploration, empire building, economic management
-
 ## Back Story
-In the future, governments have all but collapsed and have been replaced by
-corporations of all shapes and sizes. The advent of faster-than-light (FTL)
-travel enabled humanity to reach out into the surrounding galaxies and star
-systems of the universe. Corporations seek to establish trade routes and produce
-goods and services, competing with one another for dominance over ever larger
-swaths of the universe.
+The advent of faster-than-light travel enabled humanity to reach out into the
+furthest galaxies and star systems.  Free republics -- essentially corporations
+comprised of voluntary participants (shareholders) -- of all shapes and sizes
+seek to produce goods and services, to establish trade routes, to procure
+resources, and are constantly competing with one another for dominance over ever
+larger swaths of the universe.
 
-## Genre of the game
-Turn-based 4X, with "real-time" a distant future possibility
+Combat is all but forgotten. Wealth, technology and influence replace the
+shield and sword. As republics grow, the strain of expansion is inevitably felt.
+Brave leaders must strategically plan for the future and balance the three
+forces in order to succeed.
 
-## Platform of the game=====
-Possibly [[http://jmonkeyengine.org/ jMonkeyEngine]]
+## Overview
+Space Trader 2142 is an evolution of and twist on games like:
+* [Railroads! and the Railroad Tycoon games](https://en.wikipedia.org/wiki/Railroad_Tycoon_(series)) 
+* [The Civilization series](https://en.wikipedia.org/wiki/Civilization_(series)) 
+* [The Galactic Civilizations series](https://en.wikipedia.org/wiki/Galactic_Civilizations) 
+* [Barron Realms Elite](https://en.wikipedia.org/wiki/Barren_Realms_Elite) 
+* [Trade Wars 2002](https://en.wikipedia.org/wiki/TradeWars_2002) 
+* [Sins of a Solar Empire](https://en.wikipedia.org/wiki/Sins_of_a_Solar_Empire)
 
-##Type of game
-* Multi-player 
-* "pseudo 3D" 
-* square or hex-based maps
-  * How are galaxies and systems handled separately? a galaxy can contain
-    several systems
-* systems have "slots" for improvements?
+Can players raise their new republic from a lonely backwater to take over the
+universe? Or will their opponents put them out of business and take away all of
+their shareholders? Will players be able to manage the truly massive-scale and
+fully-integrated production economies across boundless space and numerous star
+systems, or will it all come crashing down? With no guarantees that anyone will
+succeed, 
 
-## Goal of the game
-Variable goals. Much like several of the other inspiration games:
+Space Trader presents a new exploration of economic simulation in the
+4X genre. Players will manage levels of wealth, technology, and influence as
+they attempt to expand their republics across a true three-dimensional map.
+Unlike traditional RTS and space games, there are no navies to build and no
+units to micro-manage. Players will "combat" one another like corporations do -
+by stealing customers through influence, hostile takeovers through wealth, or
+obsoleting rivals through technological advancement.
 
-* Connecting portions of the universe
-* Putting other players out of business
-* Achieving certain economic coals
-* Etc.
+## An Economic Twist
+There is no money in Space Trader. Players will not amass currency and simply
+purchase buildings and units. While Space Trader is an economic simulation,
+there are only three economic "resources" to manage:
 
-## Game play mechanics
-1) Just before a player's turn begins:
-  1) income and expenses are calculated and tallied against the current balance
-  1) any "battles" take place
-  1) influence is calculated and territory may change hands
-1) The player can move assets (ships, trading platforms, whatever) around on the board up to the maximum number of movement points
-1) The player can initiate construction of items
-1) The player can purchase things
-1) The player can trade with other player or enter into agreements
+* Wealth
+* Technology
+* Influence
 
-## Resources
-Various resources are available in the galaxies that players will uncover.
-Pre-existing Civilizations in these galaxies may desire certain resources and be
-willing to pay a premium.
+As players grow and expand their republics, they will reach new levels of
+wealth, technology, and influence. 
 
-### Resource Categories
-* Precious Metals
-* Base Elements
-* Produce
-* Animals
-* Energy
-* Water
+More wealth and technology will open the door for more advanced facilities to be
+built.
 
-Raw resources can be converted or combined into higher-order goods and services
-that can themselves be resold.
+Given sufficient technology level, republics can explore deeper into the
+universe to discover new trade opportunities and resources. Higher technology
+levels attract more valuable shareholders, increasing wealth and influence.
 
-## Major buildings, ships and objects
+More influence allows the sphere of a republic to grow. Given sufficient
+influence and/or wealth, players can take over rival's systems, facilities,
+trade routes, and more.
 
-### Ships
-There are essentially three ship "types":
-* Trade/Transport
-* Combat
-* Constructor
+Expansion of the republic comes at a cost, and too many drains on wealth,
+technology or influence can result in losing levels and, ultimately, the failure
+of the republic. Careful management of construction, exploration and resources
+is key to success.
 
-This does not mean that a Trade/Transport ship may not have combat capabilities,
-but it will be nowhere near as fast as a combat ship. Similarly, a combat ship
-may be able to transport goods, but will have nowhere near the same capacity.
+The three resources will be reflected both as "levels" for the republic, as well
+as spheres around the republic's facilities. The level and/or the sphere on the
+map will determine what actions a republic may take in that region of the map.
 
-The constructor ship is used to build items in newly discovered areas (for
-example, an outpost, or establish a settlement in a system).
+## Command and Control, Trade and Build
+The goal of Space Trader is not to micromanage units, but to "macro"-manage
+economies. Players will take control of a newly-formed free republic in a corner
+of the universe. By commanding and controlling the production and exploration of
+their republic, players will begin to influence the surrounding systems and grow
+their wealth and technology, benefiting their shareholders.
 
-### Outposts / Stations
-Outposts and Stations serve several functions
+Players will construct facilities to turn raw resources into goods that can then
+be sold via trade routes. 
 
-* Can be parts of a trade route for warehousing
-* Exert influence in an area
-* ??
+Players will set up trade routes by constructing and sending trade ships
+throughout the universe. Trade routes will enable republics to both buy and sell
+resources and higher-order goods.
 
-Can they move?
+Building comes at a cost, but not in terms of "spending" some resource unit. In
+contrast to more traditional RTS or economic simulations, construction of units
+and facilities and their movement has an affect on the wealth, technology and
+influence levels of the republic. Some effects are temporary and others may be
+permanent. The balance of activities against their resource level effects is
+critical to success.
 
-### Planetary Improvements
-The construction and purchase of planetary improvements enables the player to:
-
-* Gain access to and construct additional or different ships
-* Convert/combine raw resources
-* Gain access to and construct outputs / stations
-* Enhance influence in an area
-* ??
-	
-### Warp Routes
-Warp routes can be constructed in order to enhance the speed of travel of ships.
-
-Can players who have an agreement share/use other player warp routes?
-
-## Music and sounds of the game
-
-## Anything special about the game
-
-## Notes and References
-* Turn-based
-* "Pseudo 3D": The map is flat but objects "on" the map may be drawn in 3D
-* Multiplayer and versus AI (similar to Civilization)
-* Not really "tech trees" but certain things may be required to be purchased/built before later things can
-* [Game Design
-    Document](http://www.make-video-games.com/video-game-design/game-design-document.htm)
+## Three-dimensional Universe
+Almost all modern RTS and strategy games take place in two dimensions.
+Civilization, Warcraft, Starcraft, Sins of a Solar Empire and others are all
+essentially 2D playing areas. While some games in the RTS category employ
+terrain as an aspect of unit management, Space Trader envisions a true
+three-dimensional universe where the size of the map ultimately influences the
+length of the game. The three-dimensional aspect of the map is also what enables
+the resource spheres to play such an integral part in the game.
