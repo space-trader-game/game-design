@@ -36,7 +36,7 @@ units to micro-manage. Players will "combat" one another like corporations do -
 by stealing customers through influence, hostile takeovers through wealth, or
 obsoleting rivals through technological advancement.
 
-## An Economic Twist
+### An Economic Twist
 There is no money in Space Trader. Players will not amass currency and simply
 purchase buildings and units. While Space Trader is an economic simulation,
 there are only three economic "resources" to manage:
@@ -68,7 +68,7 @@ The three resources will be reflected both as "levels" for the republic, as well
 as spheres around the republic's facilities. The level and/or the sphere on the
 map will determine what actions a republic may take in that region of the map.
 
-## Command and Control, Trade and Build
+### Command and Control, Trade and Build
 The goal of Space Trader is not to micromanage units, but to "macro"-manage
 economies. Players will take control of a newly-formed free republic in a corner
 of the universe. By commanding and controlling the production and exploration of
@@ -89,7 +89,7 @@ influence levels of the republic. Some effects are temporary and others may be
 permanent. The balance of activities against their resource level effects is
 critical to success.
 
-## Three-dimensional Universe
+### Three-dimensional Universe
 Almost all modern RTS and strategy games take place in two dimensions.
 Civilization, Warcraft, Starcraft, Sins of a Solar Empire and others are all
 essentially 2D playing areas. While some games in the RTS category employ
@@ -97,3 +97,57 @@ terrain as an aspect of unit management, Space Trader envisions a true
 three-dimensional universe where the size of the map ultimately influences the
 length of the game. The three-dimensional aspect of the map is also what enables
 the resource spheres to play such an integral part in the game.
+
+## Core Economic Mechanics
+### Wealth
+One of the three core economic aspects of Space Trader 2142 is wealth. As the
+number of assets, territories, and other economic activities of the republic
+grow, so too does the wealth of the republic. Wealth, like all of the economic
+core elements of Space Trader 2142, is measured in levels.
+
+Building assets, acquiring territories, and other activities will require wealth
+to be expended. Depending on the action taken by the republic, the effect may be
+temporary or permanent. 
+
+For example, building a new facility may have a temporary effect of wealth level
+reduction while the facility is under construction. Once the facility is online,
+the wealth level may return to its original value. Certain facilities may
+generate wealth. Facilities with high operating costs may cause a permanent
+*reduction* in wealth that must be offset with other revenue-generating facilities
+and activities.
+
+### Technology
+Similar to wealth, the technology level of a republic must be carefully managed.
+Certain facilities and activities may have temporary or permanent effects on the
+technology level of the republic.
+
+While the wealth level is a much more slowly moving statistic, generally
+speaking, the technology level may experience wild swings. Certain events may
+cause a huge leap in technology level, whereas others may cause a slow increase.
+Further, a "law of diminishing returns" of technology applies. Ever more
+complicated technology-related facilities and activities must be built and
+undertaken in order to continue to achieve significant increases in technology
+level.
+
+### Influence
+Lastly, influence plays a key role in how the republic is able to interact with
+the systems and republics that surround it. The influence level of a republic
+affects wealth and technology costs of trade and, in many cases, must be
+expended like the other two core resources. Influence is not only a level, but
+is also represented graphically on the game map. Systems within the sphere of
+influence of a republic come under the republic's wealth, technology and
+influence effects. And the level of influence effects the size of the sphere.
+
+### Economics is the "Tech Tree"
+In contrast to traditional technology trees in most RTS, depending on the level
+of wealth, technology and influence of the republic, certain activities or
+facilities may not be available. These various levels make up the "tech tree".
+Additionally, because availability is dependent on level, and because the
+activities of a republic may reduce the various economic levels, it is possible
+for certain facilities or activities to become temporarily unavailable until
+levels rise again. The balance of the affect of both the increases and decreases
+of the various economic is a key aspect of management of a successful republic.
+
+### Bankruptcy
+- negative levels of economic resources?
+- some kind of lose/end-game situation
