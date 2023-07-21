@@ -13,13 +13,14 @@ Brave leaders must strategically plan for the future and balance the three
 forces in order to succeed.
 
 ## Overview
-Space Trader 2142 is an evolution of and twist on games like:
+Space Trader 2142 is most strongly influenced by games like:
 * [Railroads! and the Railroad Tycoon games](https://en.wikipedia.org/wiki/Railroad_Tycoon_(series)) 
-* [The Civilization series](https://en.wikipedia.org/wiki/Civilization_(series)) 
 * [The Galactic Civilizations series](https://en.wikipedia.org/wiki/Galactic_Civilizations) 
 * [Barron Realms Elite](https://en.wikipedia.org/wiki/Barren_Realms_Elite) 
 * [Trade Wars 2002](https://en.wikipedia.org/wiki/TradeWars_2002) 
-* [Sins of a Solar Empire](https://en.wikipedia.org/wiki/Sins_of_a_Solar_Empire)
+* [Stellaris](https://en.wikipedia.org/wiki/Stellaris_(video_game))
+* [City of Gangsters](https://store.steampowered.com/app/1386780/City_of_Gangsters/)
+* [Rise of Industry](https://store.steampowered.com/app/671440/Rise_of_Industry/)
 
 Can players raise their new republic from a lonely backwater to take over the
 universe? Or will their opponents put them out of business and take away all of
@@ -31,15 +32,16 @@ succeed,
 Space Trader presents a new exploration of economic simulation in the
 4X genre. Players will manage levels of wealth, technology, and influence as
 they attempt to expand their republics across a true three-dimensional map.
+
 Unlike traditional RTS and space games, there are no navies to build and no
 units to micro-manage. Players will "combat" one another like corporations do -
 by stealing customers through influence, hostile takeovers through wealth, or
 obsoleting rivals through technological advancement.
 
 ### An Economic Twist
-There is no money in Space Trader. Players will not amass currency and simply
-purchase buildings and units. While Space Trader is an economic simulation,
-there are only three economic "resources" to manage:
+There is no direct money in Space Trader. Players will not amass currency and
+simply purchase buildings and units. While Space Trader is an economic
+simulation, there are only three economic "resources" to manage:
 
 * Wealth
 * Technology
@@ -76,7 +78,8 @@ their republic, players will begin to influence the surrounding systems and grow
 their wealth and technology, benefiting their shareholders.
 
 Players will construct facilities to turn raw resources into goods that can then
-be sold via trade routes. 
+be sold via trade routes. Goods may be transformed multiple times into more
+complex and valuable goods. 
 
 Players will set up trade routes by constructing and sending trade ships
 throughout the universe. Trade routes will enable republics to both buy and sell
@@ -151,3 +154,11 @@ of the various economic is a key aspect of management of a successful republic.
 ### Bankruptcy
 - negative levels of economic resources?
 - some kind of lose/end-game situation
+
+## Core Gameplay Mechanics
+- turn-based
+- some kind of "action point" economy to limit the number of things that can
+  be done per turn, related to the wealth and technology of the enterprise
+- purchasing claims to areas of space to be allowed to build them
+- warehousing goods as trade/cargo ships have range
+- automation of trade routes (delivery, pickup, etc)
